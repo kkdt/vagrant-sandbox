@@ -22,6 +22,8 @@
    provision the virtual machine
    - This configuration uses [geerlingguy](https://app.vagrantup.com/geerlingguy/boxes/centos7) CentOS boxes
 
+1. Explore additional boxes at - https://portal.cloud.hashicorp.com/vagrant/discover
+
 ## JSON Configurations
 
 ### JSON Contents
